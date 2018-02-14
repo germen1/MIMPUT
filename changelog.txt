@@ -24,9 +24,18 @@ Thank you for enjoying the game!
 - PLEASE PAY ATTENTION to certain browsers (like CHROME) and latest Flash versions (like 20). It MAY make the game crash or give many strange bugs! At first, try to clean all your flash/browser cache, then try another browser or a former Flash Version, like 12. The game was started using Flash Player 10, and I tried my most to retain that compatibility, although I am now targetting Flash 16 and 17.
 
 ===============================================
-Update 3.44 (1st November 2017)
-- NEW: Level 8-3!
+Update 3.45 (8th January 2018)
+- NEW outfit: Shantae by Blargh!
+- NEW: Mario "Punish" scene (Raffle won by Chase Wager). To activate it, you need to to Mario in the game is completed (or if you keep laying), and you must be a nymph. The princess will be stark naked as Mario will shred her outfit/powerup.
 - Glitch Fix: some code in Bowser Jr in order to make him look at the princess and get stomped by her (if on time).
+- Glitch Fix: 'ArgumentError' when using the binoculars in 7-2 level.
+- Glitch Fix: Exit pipe of level 7-2 not working (tech info: there were two 'pipestarcoin2' pipes. Names must be unicque to work).
+- Glitch Fix: 'Inconsistent Story' with random balloons with creatures like Elvin Gadd, Jinx, Charlieton, Bobomb Buddy, Toadsworth, Luigi, 'Big standing Mushroom', 'MIPS the Rabbit', Poochie, Shyguy Gourmet, Wario, Yoshi, Zess Toad, Punio, Mushroom Frog and some bonus scenes. They must talk with the princess (and she must answer them) with the same phrases because they're not general scenes like goomba ones during levels. BUT!! If you activate 'Funny Dialogue' option, SHE (and the creatures) might talk randomly, as these was made on purpose!
+- BUG FIX: Yux and Jabbi scenes with endless loops or freezing the princess
+
+Update 3.44 (8th November 2017)
+- Rule change: two buttons instead of three in the 'swan' scene in the gallery: the problem is that the first button did nothing, as she was already standing in the swan. The third button (now the second) will make her leave then sit on the swan again.
+- BUGs and Glitches fixes, like the 'flour' and some objects that got duplicated when the princess takes them in her hands, as well as some buttons not working in the gallery
 
 Update 3.43 (30th October 2017) - IMPORTANT UPDATE
 - Please reload an external XML (english or other) to refresh the language of the game! Use the ones in my GITHUB (https://github.com/ivanaedler/MIMPUT/). Or you can just click RESET SAVES in the first screen if you dont have saved games and you dont want to mess around the XML files (English only!)
