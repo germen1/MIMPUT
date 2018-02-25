@@ -6088,6 +6088,7 @@ Enjoy!
 			<text name="BadOrUnknownFile">Fichier incorrect ou inconnu!</text>
 			
 	<!--Drinkable/Edible items-->
+			<text name="DrinksBoard">Drinks:\n1. Pure Essence of Raw Vagina\n2. Rockey Melons with a cream\n3. Chain Chomper on the Rocks\n4. Kuma Koopa Troopa\n5. Dry Hump Mortini\n6. Peachy Morning</text>
 			<text name="redWine">vin rouge</text>
 			<text name="rottenWater">eau pourrie</text>
 			<text name="cum">Sperme</text>

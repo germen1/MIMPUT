@@ -6108,6 +6108,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="BadOrUnknownFile">Arquivo com Problemas!</text>
 
 	<!--Drinkable/Edible items-->
+			<text name="DrinksBoard">Bebidas:\n1. Essência Bavária de Buceta\n2. Melões cremosos de Itaipava\n3. 51 melado com Chain Chomps\n4. Keiser Koopa Fedido\n5. Martini com Porra\n6. Princesa Bud Energética</text>
 			<text name="redWine">vinho tinto</text>
 			<text name="rottenWater">água rôta</text>
 			<text name="cum">porra</text>

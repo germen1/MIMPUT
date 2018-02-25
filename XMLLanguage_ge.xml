@@ -6093,6 +6093,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="BadOrUnknownFile">Bad or Unknown File!</text>
 
 	<!--Drinkable/Edible items-->
+			<text name="DrinksBoard">Drinks:\n1. Pure Essence of Raw Vagina\n2. Rockey Melons with a cream\n3. Chain Chomper on the Rocks\n4. Kuma Koopa Troopa\n5. Dry Hump Mortini\n6. Peachy Morning</text>
 			<text name="redWine">red wine</text>
 			<text name="rottenWater">rotten water</text>
 			<text name="cum">cum</text>
