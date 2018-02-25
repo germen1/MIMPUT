@@ -30,7 +30,7 @@ Update 3.46 (24th February 2018)
 - Rule change: now you will only get the achievement 'Gangbanged in the prison' if Mouser gangbang scene, goomba gangbang scene and Koopa gangbang scene are executed in the prison, so, many gameovers are needed to unlock it.
 - Rule change: Monty moles wont appear in the prison anymore. That's because there isnt a proper gangbang scene, and even if so, the prison achievement art would be even harder to get from many gangbang creatures.
 - Rule change: Creatures that open the door in the prison will do a 'gangbang scene' if the princess touches them.
-- XML i18n: new editable text (Drink billboard and 'The hottest girls for the right place' billboard)
+- XML i18n: new editable text (Drink billboard and 'The hottest girls for the right place' billboard) and others (new scenes)
 - Glitch Fix: "Quick Warp to an Active Level" was showing "Quick Warp to an Active" only, in the load game screen.
 - Glitch Fix: "ERROR in XML" when interacting with the green house near Blacksmith house in Toad Town.
 - Glitch Fix: Blueprints not being shown in 'level change screen' anymore (Tech info: wrong 'visible/invisible dup code)
