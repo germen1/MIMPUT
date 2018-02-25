@@ -11,13 +11,14 @@ First of all: in order to help, you need to:
 
 For now, the files are related to XML (i18n), that is, translation of the game assets.
 - ENGLISH already done! Its here in case people want to improve it. The game already has ENGLISH as default inside the engine. 
-- RUSSIAN: 1%
-- GERMAN: 2%
-- SPANISH: 6%
-- FRENCH : PRACTICALLY 100%
+- RUSSIAN: 1% translated
+- GERMAN: 2% translated
+- SPANISH: 6% translated
+- FRENCH : 99% translated (just some phrases needs translation)
 - PORTUGUESE (EUROPE): 80% (precisa ser adaptado do brasileiro)
-- PORTUGUESE (BR): 100%
-- (put your XML language here): 0%
+- PORTUGUESE (BR): 100% translated
+- CZECH (now supported!): 0% translated
+- (put or ask for your XML language here): 0% translated
 
 Version 0.5! This work was one of the BIGGEST of the game! You can finally translate it! We surely should be proud of this control! But due to Mario and other fonts, characters like '㡢 ࡧ' are not supported! 
 
