@@ -24,6 +24,20 @@ Thank you for enjoying the game!
 - PLEASE PAY ATTENTION to certain browsers (like CHROME) and latest Flash versions (like 20). It MAY make the game crash or give many strange bugs! At first, try to clean all your flash/browser cache, then try another browser or a former Flash Version, like 12. The game was started using Flash Player 10, and I tried my most to retain that compatibility, although I am now targetting Flash 16 and 17.
 
 ===============================================
+Update 3.46 (24th February 2018)
+- NEW scene: Mouser in the prison by Blargh! To see it, you have to lose all your lives two times (so, two 'game overs'). If you keep having 'game overs', Bowser or Bowser Jr will appear there later, then Mouser might reappear in the future. Right in the second gameover, you will lose your virginity if any, so beware!
+- NEW scene: 'The princess paying for slutty services' made by me. This scene is triggered when you find a screen (a wooden clothing changer) in the bars and in certain outside areas of Delfino land. If you're a nymph, you can activate this scene, where you can select which service you will be doing (handjob, boobjob, blowjob, vaginal sex and anal sex). A random creature will then appear to fulfill his desires. Each one will give a certain amount of coins. Be careful, though. In certain times, a creature could be so 'thirsty' they would do a gangbang (but you'll certain earn more coins!)
+- Rule change: now you will only get the achievement 'Gangbanged in the prison' if Mouser gangbang scene, goomba gangbang scene and Koopa gangbang scene are executed in the prison, so, many gameovers are needed to unlock it.
+- Rule change: Monty moles wont appear in the prison anymore. That's because there isnt a proper gangbang scene, and even if so, the prison achievement art would be even harder to get from many gangbang creatures.
+- Rule change: Creatures that open the door in the prision will do a 'gangbang scene' if the princess touches them.
+- XML i18n: new editable text (Drink billboard and 'The hottest girls for the right place' billboard)
+- Glitch Fix: "Quick Warp to an Active Level" was showing "Quick Warp to an Active" only, in the load game screen.
+- Glitch Fix: "ERROR in XML" when interacting with the green house near Blacksmith house in Toad Town.
+- Glitch Fix: Blueprints not being shown in 'level change screen' anymore (Tech info: wrong 'visible/invisible dup code)
+- Glitch Fix: The nymph Princess was asking to remove her clothes even if she isnt able to walk, like in the new 'paying for slutty services' above.
+- Glitch Fix: When the princess is nymph and with a chainball in the prison, sometimes she shows her butt to us (butt dance) without the chainball. 
+- Other small glitches, like certain shyguys not checking if the princess allows Anal sex or not.
+
 Update 3.45 (8th January 2018)
 - NEW outfit: Shantae by Blargh!
 - NEW: Mario "Punish" scene (Raffle won by Chase Wager). To activate it, you need to to Mario in the game is completed (or if you keep laying), and you must be a nymph. The princess will be stark naked as Mario will shred her outfit/powerup.
