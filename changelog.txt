@@ -29,7 +29,7 @@ Update 3.46 (24th February 2018)
 - NEW scene: 'The princess getting paid for slutty services' made by me. This scene is triggered when you find a screen (a wooden clothing changer) in the bars and in certain outside areas of Delfino land. If you're a nymph, you can activate this scene, where you can select which service you will be doing (handjob, boobjob, blowjob, vaginal sex and anal sex). A random creature will then appear to fulfill his desires. Each one will give a certain amount of coins. Be careful, though. In certain times, a creature could be so 'thirsty' they would do a gangbang (but you'll certain earn more coins!)
 - Rule change: now you will only get the achievement 'Gangbanged in the prison' if Mouser gangbang scene, goomba gangbang scene and Koopa gangbang scene are executed in the prison, so, many gameovers are needed to unlock it.
 - Rule change: Monty moles wont appear in the prison anymore. That's because there isnt a proper gangbang scene, and even if so, the prison achievement art would be even harder to get from many gangbang creatures.
-- Rule change: Creatures that open the door in the prision will do a 'gangbang scene' if the princess touches them.
+- Rule change: Creatures that open the door in the prison will do a 'gangbang scene' if the princess touches them.
 - XML i18n: new editable text (Drink billboard and 'The hottest girls for the right place' billboard)
 - Glitch Fix: "Quick Warp to an Active Level" was showing "Quick Warp to an Active" only, in the load game screen.
 - Glitch Fix: "ERROR in XML" when interacting with the green house near Blacksmith house in Toad Town.
