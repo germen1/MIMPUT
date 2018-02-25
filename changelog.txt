@@ -40,7 +40,7 @@ Update 3.46 (24th February 2018)
 
 Update 3.45 (8th January 2018)
 - NEW outfit: Shantae by Blargh!
-- NEW: Mario "Punish" scene (Raffle won by Chase Wager). To activate it, you need to to Mario in the game is completed (or if you keep laying), and you must be a nymph. The princess will be stark naked as Mario will shred her outfit/powerup.
+- NEW: Mario "Punish" scene (Raffle won by Chase Wager). To activate it, you need to get Mario in the game once it's completed, and you must be a nymph. An option will appear (1 - Get Punished). The princess will be then stark naked as Mario will shred her outfit/powerup.
 - Glitch Fix: some code in Bowser Jr in order to make him look at the princess and get stomped by her (if on time).
 - Glitch Fix: 'ArgumentError' when using the binoculars in 7-2 level.
 - Glitch Fix: Exit pipe of level 7-2 not working (tech info: there were two 'pipestarcoin2' pipes. Names must be unicque to work).
