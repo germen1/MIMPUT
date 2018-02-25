@@ -758,6 +758,17 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="5">Aaahhhh!\nEstou gozando como uma cadela! Que safadeza!</p>
 			</scenes>
 			
+			<scenes scene="princessPayForServices">
+				<p i="1">Umm... O que é isso? Eles... eles querem que nós garotas trabalhemos como...prostitutas?</p>
+				<p i="1a">Selecione um número\n1) Trabalhar mais\n{NEXTKEY}) Sair</p>
+				<p i="2">Selecione um número\n1) Trabalhar como puta\n{NEXTKEY}) Sair</p>
+				<p i="3">NÃO MESMO! Eu nunca darei minha bucetinha virgem! Ela é de meu Mário!</p> <!--If virgin-->
+				<p i="3a">NÃO MESMO! Eu nunca teria coragem de aparecer no reino se eu fizer isso!</p>
+				<p i="3b">Ooou, só de pensar em me vender como putinha... Minha bucetinha fica tão molhada... Acho que vou trocar de roupas e...</p>
+				<p i="4">1) Bater uma bronha (5 moedas)    2) Massagear os peitos (5 moedas)\n3) Dar uma mamada (5 moedas)    4) Sexo anal (10 moedas)\n5) Sexo vaginal (10 moedas)</p>
+				<p i="4a">Não posso dar meu cuzinho, estou proibida disso!</p>
+			</scenes>
+			
 	<!--MORE THAN ONE PRINCESS-->			
 			<scenes scene="princessesGangbang">
 				<p i="1">O que vocês\ngarotas estão fazendo aqui!?</p>
@@ -1817,6 +1828,21 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Tá, garotos, vou bater uma bronha em vocês, mas deixem minha racha em paz...</p>
 				<p i="3">Hmmm? Mmnhmp?\nEiii...Minha buceta foi enfiada de novo! Mhhmhnp! Ahh!</p>
 				<p i="4">Mnnhm\nmnhhmhph!! Estou gozaaaaaaand...Ai!</p>
+			</scenes>			
+
+	<!--Mouser-->
+			<scenes scene="mouser1">
+				<p i="1">\nEi!! Não imaginava o Mouser aqui! Por favor não me puna!</p>
+				<e i="1">São as regras, Princesa!\nNão estou sendo idiota aqui! Você será punida...sexualmente, hehe!</e>
+				<p i="2">\nOh não! Por favor! Não deixe suas tropas assistirem! Estou envergonhada!</p>
+				<e i="2">Ei, se preocupa não, Princesa! Eles não irão assistir, eles vão PARTICIPAR hehe. Peguem-na!</e>
+				<p i="3">\nEita, aaaah! Eles estão todos lá dentro! Dê...dê para mim, depois eu...vejo se...</p>
+				<e i="3">Perfeito!\nUuuh! Assim ganho um pouco de tempo aqui!</e>
+				<p i="4">Ooou!\nTrês ao mesmo tempo é demais! Já estou prestes a gozaaaar!</p>
+				<e i="4">Porra, Princesa!\nVou entupi-la de porra, sua prisioneira! Toma essa pirocada!</e>
+				<p i="5">Humm! Tão bom...\nAdoro ficar toda cheinha de porra! É pau de todo jeito me roçando, aaah gooozei!</p>
+				<e i="5">\nOooh...Essa foi excelente! Eu...estou morto...</e>
+				<p i="6">Aaah! Estou tremendo\naté agora! Eu...não, não acorde! Eu...preciso fugir daqui...</p>
 			</scenes>			
 
 	<!--KING OSAMA (from SMB2)-->
@@ -5816,7 +5842,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="CurrentGame">Jogo Atual</text>
 			<text name="QuickWarpToActiveLevel">Teleportar para Fase Ativa</text>
 			<text name="LostHerVirginity">perdeu a Virgindade!</text>
-			<text name="GotGangBangedInPrison">foi fodida por muitos na prisão!</text>
+			<text name="GotGangBangedInPrison">foi fodida por Mouser, koopas, goombas e shyguys na prisão!</text>
+			<text name="YouWillBeGangBanged">OPA! Estes querem mais de você! Você será comida por vários!!</text>
 			
 			<text name="Diary">Diário</text>
 			<text name="MyMushroomDiary">Meu Diário Cogumelo</text>
@@ -5831,6 +5858,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 
 			<text name="doorNowUnlocked">Esta porta agora está destrancada!</text>
 			<text name="doorLockedTalkSomeone">Esta porta está trancada. Preciso pedir alguem para abrí-la.</text>
+			<text name="itsUnlockedMayIEnter">Esta porta está destrancada mas não é a minha casa. Devo entrar mesmo assim?\n1) Sim!\n{NEXTKEY}) Não!</text>
 			<text name="princessFarted">A princesa PEIDOU!</text>
 			<text name="bellyEmpty">Sua barriga agora está vazia!</text>
 			<text name="bellyDecreased">Barriga diminuiu! Para diminuir mais, espera alguns segundos primeiro!</text>
@@ -6010,6 +6038,8 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="HIGH">ALTO</text>
 			<text name="AUTO">AUTOM.</text>
 			<text name="UPDATING">Atualizando...</text>
+			<text name="BillBoardPayForServices">As quengas mais\nquentes por uma bagatela!\n(Clique para detalhes)</text>
+			
 			<text name="YOUGOTPUNISHEDENEMIESFASTER">VOCÊ FOI PUNIDA! INIMIGOS ESTÃO MAIS RÁPIDOS ATÉ O FIM DA FASE!</text>
 			<text name="YOUGOTPUNISHEDDIZZY">YOU GOT PUNISHED! VOCÊ FICARÁ TONTA POR UM TEMPO!</text>
 			<text name="YOUGOTPUNISHEDTIMEPASSED">YOU GOT PUNISHED! 50 SEGUNDOS SE PASSARAM!</text>

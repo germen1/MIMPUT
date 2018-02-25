@@ -760,6 +760,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="5">(Suck!) your asshole\nn\' pussy ARE mine!</f>
 				<p i="5">Aaahhhh!\nI am cumming like crazy! So nasty!</p>
 			</scenes>
+			<scenes scene="princessPayForServices">
+				<p i="1">Hmm... What\'s that? They... they want girls like me to sell themselves as prostitutes?</p>
+				<p i="1a">Select a number\n1) Work more\n{NEXTKEY}) Leave</p>
+				<p i="2">Select a number\n1) Work as a slut\n{NEXTKEY}) Leave</p>
+				<p i="3">NO WAY! I would never sell my flower!  That\'s for Mario!</p> <!--If virgin-->
+				<p i="3a">NO WAY! I could never show my face if I did such a thing!</p>
+				<p i="3b">Oooh, making me do \'services\'...this makes my perverted pussy so wet... I\'ll go change and...</p>
+				<p i="4">1) Give a Handjob (5 coins)    2) Give a Boobjob (5 coins)\n3) Give a Blowjob (5 coins)    4) Do anal sex (10 coins)\n5) Do pussy sex (10 coins)</p>
+				<p i="4a">I can\'t give my...asshole...I refrain myself to do that!</p>
+			</scenes>
 
 	<!--MORE THAN ONE PRINCESS-->
 			<scenes scene="princessesGangbang">
@@ -1822,6 +1832,21 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Okay, guys\nI\'ll stroke you both, just let my pussy alone, okay?</p>
 				<p i="3">Hmmm? Mmnhmp?\nEhh...My pussy was taken again! Mhhmhnp! Ahh!</p>
 				<p i="4">Mnnhm\nmnhhmhph!! I\'m Kuumnhmning!</p>
+			</scenes>			
+
+	<!--Mouser-->
+			<scenes scene="mouser1">
+				<p i="1">\nI didn\'t mean to Mouser! Please don\'t punish me!</p>
+				<e i="1">It\'s the rules, Princess.\nI don\'t make \'em up. You gotta be punished! Sexually, heh heh.</e>
+				<p i="2">\nOh my! Please no! Don\'t let your goons watch! I\'d be so embarrassed!</p>
+				<e i="2">Hey, no worries, Princess. They\'re not gonna watch. They\'re joining in! Get her!</e>
+				<p i="3">\nThey\'re filling me up! Oooh! Give it to me deeper...</p>
+				<e i="3">Oh yeah!\nThis\'ll knock some time off your sentence!</e>
+				<p i="4">Oooh!\nThree at once is so good! I\'m going to cum soon!</p>
+				<e i="4">Fuuuck, Princess!\nI\'m gonna fill you up to the brim! I\'m cumming!</e>
+				<p i="5">Mmm! So good!\nI love being this full! All these dicks so deep inside me!</p>
+				<e i="5">\nOooh...so good! I...I\'m spent...</e>
+				<p i="6">Ooh! That was\ngreat! Oh! Uh, don\'t get up. I\'ll just let myself out.</p>
 			</scenes>			
 
 	<!--KING OSAMA (from SMB2)-->
@@ -5820,7 +5845,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="CurrentGame">Current Game</text>
 			<text name="QuickWarpToActiveLevel">Quick Warp to an Active Level</text>
 			<text name="LostHerVirginity">lost her Virginity!</text>
-			<text name="GotGangBangedInPrison">got gangbanged in the prison!</text>
+			<text name="GotGangBangedInPrison">got gangbanged by Mouser, koopas, goombas and shyguys in the prison!</text>
+			<text name="YouWillBeGangBanged">WHOOPS! They want more! You will be gangbanged!</text>
 			
 			<text name="Diary">Книга</text>
 			<text name="MyMushroomDiary">My Mushroom Diary</text>
@@ -5834,7 +5860,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ProgrammedBy">Programmed By</text>
 
 			<text name="doorNowUnlocked">This door is now unlocked!</text>
-			<text name="doorLockedTalkSomeone">The Door inside is locked. I may need to talk to someone to open it.</text>
+			<text name="doorLockedTalkSomeone">The door inside is locked. I may need to talk to someone to open it.</text>
+			<text name="itsUnlockedMayIEnter">The door is unlocked but that\'s not my house. May I enter?\n1) Yes!\n{NEXTKEY}) Leave!</text>
 			<text name="princessFarted">Принцeсса ПУКНУЛА!</text>
 			<text name="bellyEmpty">The belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
@@ -6010,6 +6037,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="HIGH">HIGH</text>
 			<text name="AUTO">AUTO</text>
 			<text name="UPDATING">UPDATING...</text>
+			<text name="BillBoardPayForServices">The hottest girls\nfor the right price\n(Click for details)</text>
+			
 			<text name="YOUGOTPUNISHEDENEMIESFASTER">YOU GOT PUNISHED! ENEMIES ARE NOW FASTER UNTIL THE LEVEL ENDS!</text>
 			<text name="YOUGOTPUNISHEDDIZZY">YOU GOT PUNISHED! YOU GOT DIZZY FOR SOME TIME!</text>
 			<text name="YOUGOTPUNISHEDTIMEPASSED">YOU GOT PUNISHED! 50 SECONDS HAVE PASSED!</text>

@@ -752,6 +752,16 @@ Enjoy!
 				<f i="5">(Suce!) ton anus\net ta cahtte son a MOI!</f>
 				<p i="5">Aaahhhh!\nJe jouillee comme une folle! Trop dégoutant!</p>
 			</scenes>
+			<scenes scene="princessPayForServices">
+				<p i="1">Hmm... What\'s that? They... they want girls like me to sell themselves as prostitutes?</p>
+				<p i="1a">Select a number\n1) Work more\n{NEXTKEY}) Leave</p>
+				<p i="2">Select a number\n1) Work as a slut\n{NEXTKEY}) Leave</p>
+				<p i="3">NO WAY! I would never sell my flower!  That\'s for Mario!</p> <!--If virgin-->
+				<p i="3a">NO WAY! I could never show my face if I did such a thing!</p>
+				<p i="3b">Oooh, making me do \'services\'...this makes my perverted pussy so wet... I\'ll go change and...</p>
+				<p i="4">1) Give a Handjob (5 coins)    2) Give a Boobjob (5 coins)\n3) Give a Blowjob (5 coins)    4) Do anal sex (10 coins)\n5) Do pussy sex (10 coins)</p>
+				<p i="4a">I can\'t give my...asshole...I refrain myself to do that!</p>
+			</scenes>
 
 	<!--MORE THAN ONE PRINCESS-->
 			<scenes scene="princessesGangbang">
@@ -1815,6 +1825,21 @@ Enjoy!
 				<p i="4">Mnnhm\nmnhhmhph!! Je Joumnhmnille!</p>
 			</scenes>			
 
+	<!--Mouser-->
+			<scenes scene="mouser1">
+				<p i="1">\nI didn\'t mean to Mouser! Please don\'t punish me!</p>
+				<e i="1">It\'s the rules, Princess.\nI don\'t make \'em up. You gotta be punished! Sexually, heh heh.</e>
+				<p i="2">\nOh my! Please no! Don\'t let your goons watch! I\'d be so embarrassed!</p>
+				<e i="2">Hey, no worries, Princess. They\'re not gonna watch. They\'re joining in! Get her!</e>
+				<p i="3">\nThey\'re filling me up! Oooh! Give it to me deeper...</p>
+				<e i="3">Oh yeah!\nThis\'ll knock some time off your sentence!</e>
+				<p i="4">Oooh!\nThree at once is so good! I\'m going to cum soon!</p>
+				<e i="4">Fuuuck, Princess!\nI\'m gonna fill you up to the brim! I\'m cumming!</e>
+				<p i="5">Mmm! So good!\nI love being this full! All these dicks so deep inside me!</p>
+				<e i="5">\nOooh...so good! I...I\'m spent...</e>
+				<p i="6">Ooh! That was\ngreat! Oh! Uh, don\'t get up. I\'ll just let myself out.</p>
+			</scenes>			
+			
 	<!--KING OSAMA (from SMB2)-->
 			<scenes scene="osama">
 				<f i="1">Je venais de la salle de bain</f>
@@ -5800,7 +5825,8 @@ Enjoy!
 			<text name="CurrentGame">Partie actuelle</text>
 			<text name="QuickWarpToActiveLevel">Déformation Rapide à un Niveau Actif</text>
 			<text name="LostHerVirginity">perdu sa virginité!</text>
-			<text name="GotGangBangedInPrison">obtenir gangbanged dans la prison!</text>
+			<text name="GotGangBangedInPrison">obtenir gangbanged dans la prison (mouser, koopas, goombas et shyguys)</text>
+			<text name="YouWillBeGangBanged">WHOOPS! They want more! You will be gangbanged!</text>
 			
 			<text name="Diary">Journal intime</text>
 			<text name="MyMushroomDiary">Mon journal champignons</text>
@@ -5814,6 +5840,7 @@ Enjoy!
 			<text name="ProgrammedBy">Programmed By</text>
 			<text name="doorNowUnlocked">Cette porte est maintenant déverrouillée!</text>
 			<text name="doorLockedTalkSomeone">La porte à l\'intérieur est verrouillée. Je peux avoir besoin de parler à quelqu\'un pour l\'ouvrir.</text>
+			<text name="itsUnlockedMayIEnter">The door is unlocked but that\'s not my house. May I enter?\n1) Yes!\n{NEXTKEY}) Leave!</text>
 			<text name="princessFarted">La princesse a pété!</text>
 			<text name="bellyEmpty">Le ventre est maintenant vide!</text>
 			<text name="bellyDecreased">Diminution du ventre. Pour diminuer plus, S\'il vous plaît attendez quelques secondes!</text>
@@ -5988,6 +6015,8 @@ Enjoy!
 			<text name="HIGH">ÉLEVÉ</text>
 			<text name="AUTO">AUTO</text>
 			<text name="UPDATING">UPDATING...</text>
+			<text name="BillBoardPayForServices">The hottest girls\nfor the right price\n(Click for details)</text>
+			
 			<text name="YOUGOTPUNISHEDENEMIESFASTER">VOUS AVEZ ETES PUNI! LES ENNEMIS SONT MAINTENANT PLUS RAPIDES JUSQU\'A LA FIN DU NIVEAU!</text>
 			<text name="YOUGOTPUNISHEDDIZZY">VOUS AVEZ ETES PUNI! VOUS AVEZ ÉTOURDI POUR QUELQUE TEMPS!</text>
 			<text name="YOUGOTPUNISHEDTIMEPASSED">VOUS AVEZ ETES PUNI! 50 SECONDES ONT PASSE!</text>
