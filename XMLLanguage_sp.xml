@@ -759,6 +759,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="4a">Não posso dar meu cuzinho, estou proibida disso!</p>
 			</scenes>
 			
+			<scenes scene="princessTauntMirror">
+				<p i="1">Eu me\nacho tão linda...</p>
+				<p i="2">Eu adoro\nver minhas costas...e minha...bundinha...</p>
+				<p i="3">Hihihi,\nEstou balançando minha traseiro pervertido...</p>
+				<p i="4">Ooohhh,\nNão aguento mais, preciso bater na bunda...Ahh!</p>
+			</scenes>
+			
 	<!--MORE THAN ONE PRINCESS--><!--Sección traducida al 5%.-->		
 			<scenes scene="princessesGangbang">
 				<p i="1">O que vocês\ngarotas estão fazendo aqui!?</p>
@@ -2125,6 +2132,26 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="5">Please calm\ndown, let me finish it.. completelly...</f>
 				<p i="5">Aaah, cumming!\nDon\'t ea...drink it! That\'s enough, really...</p>
 			</scenes>			
+			<scenes scene="jellyfish2">
+				<p i="1">Espere vocês du-\nOu!? Isto faz cócegas! Mas...estou gostando....</p>
+				<f i="1">Oh, minha cli-\nente! Acalme-se! Não se preocupe, vamos tirar sua tensão!</f>
+				<e i="1">Você derretará em nossos braços! Irmã, vamos tirar as roupas dela!</e>
+				<p i="2">\nEspere! Isto é delicioso mas...estou pelada! E seus peitos estão me eriçando!</p>
+				<f i="2">\nApenas relaxe! Respire fundo e curta a massagem.</f>
+				<e i="2">\nTodas suas preocupações serão dissolvidas.</e>
+				<p i="3">\nOooh! Ahh! Que tesão! Mas...algo está crescendo em mim!</p>
+				<f i="3">\nIsso mesmo! Sentirás muito bem! Curta as sensações!</f>
+				<e i="3">\nVamos fazê-la jogar tudo para fora! Deixe sair tudo!</e>
+				<p i="4">\nOh sim!!!\nEsfreque mais! Ahhh, eu vou gozar!</p>
+				<f i="4">\nNão, minha cliente! Não goze! Não fazemos isto em nosso quiosque!</f>
+				<e i="4">\nOh, irmã! Vamos deixá-la fazer! O corpo dela precisa expelir!</e>
+				<p i="5">\nEstou tão pertinha de gozar! Vou ter que gozar... na cara dela!</p>
+				<f i="5">*Hunf!*\nSua vagina é muito macia mas está me melando! Essa massagem é necessária!</f>
+				<e i="5">Uaah! Minhas mãos\nestão afundando em seus peitos pervetidos e melequentos!</e>
+				<p i="6">\nAhhhh...GOZEI! Isto é muito relaxante! Talvez eu volte aqui (hihi)!</p>
+				<f i="6">\nEstaremos sempre a postos para expandir nosso trabalho, irmã!</f>
+				<e i="6">\nSim! Concordo! Ajude-me a limpá-la! Está toda melada!</e>
+			</scenes>			
 
 	<!--SOCKHOPs (green sacks that hops around)-->
 			<scenes scene="sockhop1">
@@ -3354,7 +3381,8 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="dialogueJellyFish">
 				<f i="1">Hello, Princess! It\'s a surprise to see you around here! Want some massaging?</f>
 				<p i="2">(CHOOSE A NUMBER)\n1) Yes, why not?\n2) No, I dont need it.</p>
-			</scenes>			
+				<f i="2">Hello back, my dear! Want some massaging here in the Beach?</f>
+			</scenes>
 
 			<scenes scene="dialogueToad">
 				<f i="airship">Toad: ¡Oh princesa! ¡Una gran nave está dentro de tu castillo! ¡Toadsworth dijo que puedes vencerlo! Oh, por favor, princesa!</f>
@@ -3705,7 +3733,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 			<scenes scene="dialogueGrodusShelf">
 				<p i="1">Where is the disk?</p>
-				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n5) Leave</p>
+				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n{NEXTKEY}) Leave</p>
 				<p i="4">I got it!</p>
 				<p i="5">It\'s not here...</p>
 			</scenes>
@@ -4057,7 +4085,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>
 
 			<scenes scene="dialogueDrawer">
-				<p i="1">Which drawer do you want me to open?\n1) FIRST      2) SECOND\n3) THIRD    4) Leave</p>
+				<p i="1">Which drawer do you want me to open?\n1) FIRST      2) SECOND\n3) THIRD    {NEXTKEY}) Leave</p>
 				<p i="2">inside. Do I take it?\n1) YES\n2) NO</p>
 				<p i="3">I am already full. I have to drop the current one I already have.</p>
 				<p i="4">I Added to my \'one-item\' inventory. I can only carry one at a time (You have to click on it in the HUD, next to your score, to use it)</p>
@@ -5701,6 +5729,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Color_Gold">Dorado</text>
 			<text name="Color_Cyan">Cyan</text>
 			<text name="Color_Opaque">Opaco</text>
+			<text name="Boot">Bota</text>
 			<text name="None">Ninguno</text>
 			<text name="layer">layer</text>
 			<text name="layers">layers</text>
@@ -5713,6 +5742,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="OhNo">Oh no</text>
 			<text name="By">By</text>
 			<text name="somethingUnlocked">Something has been unlocked!</text>
+			<text name="CantRunLargeBoobs">Usted no puede corer con esses petchones (juogo en el modo DIFÍCIL)!</text>
 			<text name="TimeIsUp">TIME IS UP! The princess is busted!</text>
 			<text name="ThePrincessDizzyArousal">A princesa está tontinha devido à excitação máxima!</text>
 			<text name="REMOVEDCLOTHESPRESS">REMOVED HER CLOTHES! - PRESS</text>
@@ -5981,6 +6011,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="PressRunGrabDecent">Pulse la tecla RUN para agarrarlo con decencia.</text>
 			<text name="CannotCarryTwoKeys">No puede llevar dos llaves a la vez. ¡Elimina uno de ellas primero!</text>
 			<text name="CantDoThatInWorldmap">No es posible hacer esto en la fase de mapa mundi!</text>
+			<text name="ThisIsOneWayPipe">Este cano é de sentido único! Não conseguirei usá-lo!</text>
 			<text name="CanOnlyScrollingWorldmap">Sólo se puede establecer el desplazamiento en el mapamundi en el castillo de Peachs!</text>
 			<text name="StationaryOFFExiting">La cámara estacionaria ahora está apagada. Salir de la pantalla de opciones para activar los cambios.</text>
 			<text name="CanOnlyStationaryWorldmap">Sólo se puede ajustar la cámara fija en el mapa del mundo!</text>
@@ -6055,6 +6086,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Options">Opciones</text>
 			<text name="NormalGame">Juego Normal</text>
 			<text name="HardGame">Juego Dificil</text>
+			<text name="HardGameCantRunBoobs">Impossível correr, os peitos estão enormes! (Jogo MODO Difícil)</text>
 			<text name="Gallery">Galeria</text>
 			<text name="Credits">Creditos</text>
 			<text name="NoAchievementsYet">No hay logros aún!</text>
@@ -6069,6 +6101,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="THEEND">THE END</text>
 			<text name="KEEPPLAYING">KEEP PLAYING</text>
 			<text name="CheatEnabledNoB">Cheat Mode! No Bonuses!</text>
+			<text name="MASSAGE">MASSAGEM</text>
 			<text name="OhPrincess">OH PRINCESS...</text>
 			<text name="PrincessSwallowed">The princess was swallowed!</text>
 			<text name="WhatWouldHaveFailed">What would have happened to the Princess if she failed?</text>
@@ -6198,7 +6231,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="7-7">Palacio Fodido</text>
 		<text name="8-1">Brigada de Tanques I</text>
 		<text name="8-2">Vale dos Peitões</text>
-		<text name="8-3">NOT YET</text>
+		<text name="8-3">Deserto Podre</text>
 		<text name="8-4">NOT YET</text>
 		<text name="8-5">NOT YET</text>
 		<text name="8-6">NOT YET</text>

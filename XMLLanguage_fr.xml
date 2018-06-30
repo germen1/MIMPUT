@@ -763,6 +763,13 @@ Enjoy!
 				<p i="4a">I can\'t give my...asshole...I refrain myself to do that!</p>
 			</scenes>
 
+			<scenes scene="princessTauntMirror">
+				<p i="1">I am\nso beautiful...</p>
+				<p i="2">I love\nseeing my back... and my butt...Er...</p>
+				<p i="3">Hihihi,\nI am swinging my perverted butt...</p>
+				<p i="4">Ooohhh,\nI can\'t stand myself, just some spanking...Ahh!</p>
+			</scenes>
+			
 	<!--MORE THAN ONE PRINCESS-->
 			<scenes scene="princessesGangbang">
 				<p i="1">Que faites-vous\nles filles ici!?</p>
@@ -2127,6 +2134,26 @@ Enjoy!
 				<f i="5">S\'il vous plait calmer vous, laisse moi finire ca ...completement...</f>
 				<p i="5">Aaah, Je Jouillee!\nNe...Buvez pas ca! C\'est assez, vraiment...</p>
 			</scenes>			
+			<scenes scene="jellyfish2">
+				<p i="1">There were tw-\nOh!? That tickles a little! Mmm, feels nice though.</p>
+				<f i="1">Oh, Customer!\nYou\'re stiff as a board! But don\'t worry!</f>
+				<e i="1">We\'ll have you\nmelting in our arms! Now, let\'s get those clothes off.</e>
+				<p i="2">\nOh! This is really nice, but their boobs are pressing into me all over!</p>
+				<f i="2">\nJust relax! Let go and enjoy the massage.</f>
+				<e i="2">\nLet all your worries just melt away.</e>
+				<p i="3">\nMmm! I just feel so--so good! Something is building up inside me!</p>
+				<f i="3">\nYes, that\'s it! Just relax and enjoy the feelings.</f>
+				<e i="3">\nWe\'ll help you release it all. Just let it all out.</e>
+				<p i="4">\nOh yes!\nKeep rubbing me! I\'m gonna cum!</p>
+				<f i="4">\nNo! Customer! This isn\'t that kind of establishment!</f>
+				<e i="4">\nOh, sister! Let\'s just give her \'All That She Wants\'!</e>
+				<p i="5">\nSo close! I\'m gonna cum hard on your face!</p>
+				<f i="5">*Mmf!*\nHer pussy is so soft! My face is moistening from her pussy juice!</f>
+				<e i="5">Wow! My hands\nare just sinking into your tits! So soft and fleshy!</e>
+				<p i="6">\nOooohhhh...That was sooo relaxing. I have to come again soon!</p>
+				<f i="6">\nI suppose we could expand our offerings, sister.</f>
+				<e i="6">\nMmm, yes. I think I can agree to that!</e>
+			</scenes>			
 
 	<!--SOCKHOPs (green sacks that hops around)-->
 			<scenes scene="sockhop1">
@@ -3356,6 +3383,7 @@ Enjoy!
 			<scenes scene="dialogueJellyFish">
 				<f i="1">Bonjour, Princesse! C\'est une surprise de vous voir ici! Vous voulez un massage?</f>
 				<p i="2">(CHOOSE A NUMBER)\n1) Oui, pourquoi pas?\n2) Non, je n\'en ai pas besoin.</p>
+				<f i="2">Hello back, my dear! Want some massaging here in the Beach?</f>
 			</scenes>			
 
 			<scenes scene="dialogueToad">
@@ -3706,7 +3734,7 @@ Enjoy!
 
 			<scenes scene="dialogueGrodusShelf">
 				<p i="1">Where is the disk?</p>
-				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n5) Leave</p>
+				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n{NEXTKEY}) Leave</p>
 				<p i="4">I got it!</p>
 				<p i="5">It\'s not here...</p>
 			</scenes>
@@ -4057,7 +4085,7 @@ Enjoy!
 			</scenes>
 
 			<scenes scene="dialogueDrawer">
-				<p i="1">Which drawer do you want me to open?\n1) FIRST      2) SECOND\n3) THIRD    4) Leave</p>
+				<p i="1">Which drawer do you want me to open?\n1) FIRST      2) SECOND\n3) THIRD    {NEXTKEY}) Leave</p>
 				<p i="2">inside. Do I take it?\n1) YES\n2) NO</p>
 				<p i="3">I am already full. I have to drop the current one I already have.</p>
 				<p i="4">I Added to my \'one-item\' inventory. I can only carry one at a time (You have to click on it in the HUD, next to your score, to use it)</p>
@@ -5701,6 +5729,7 @@ Enjoy!
 			<text name="Color_Gold">Or</text>
 			<text name="Color_Cyan">Cyan</text>
 			<text name="Color_Opaque">Opaque</text>
+			<text name="Boot">Boot</text>
 			<text name="None">aucun</text>
 			<text name="layer">Baise</text>
 			<text name="layers">baiseus</text>
@@ -5713,6 +5742,7 @@ Enjoy!
 			<text name="OhNo">Oh non</text>
 			<text name="By">Par</text>
 			<text name="somethingUnlocked">Quelque chose a été déverrouillé!</text>
+			<text name="CantRunLargeBoobs">You can\'t run with those larger jugs in hard game mode!</text>
 			<text name="TimeIsUp">LE TEMPS EST ÉCOULÉ! La princesse a perdu!</text>
 			<text name="ThePrincessDizzyArousal">La princesse est étourdie en raison de l\'excitation élevée!</text>
 			<text name="REMOVEDCLOTHESPRESS">RETIRÉ SES VÊTEMENTS! - APPUYER</text>
@@ -5976,6 +6006,7 @@ Enjoy!
 			<text name="PressRunGrabDecent">Presser le boutton RUN pour l\'attraper convenablement.</text>
 			<text name="CannotCarryTwoKeys">Vous ne pouvez pas porter deux clés à la fois. Enlevez-en un d\'abord!</text>
 			<text name="CantDoThatInWorldmap">Impossible de faire cela sur la Worldmap!</text>
+			<text name="ThisIsOneWayPipe">This is a one-way pipe. I can\'t use it!</text>
 			<text name="CanOnlyScrollingWorldmap">Vous pouvez uniquement définir le DÉFILEMENT dans la carte du monde ou dans le château de Peach!</text>
 			<text name="StationaryOFFExiting">La caméra fixe est maintenant désactivée. Quitter l\'écran Options pour activer les modifications.</text>
 			<text name="CanOnlyStationaryWorldmap">Vous pouvez uniquement définir la CAMÉRA FIXE dans la carte du monde!</text>
@@ -6050,6 +6081,7 @@ Enjoy!
 			<text name="Options">Options</text>
 			<text name="NormalGame">Normal Game</text>
 			<text name="HardGame">Hard Game</text>
+			<text name="HardGameCantRunBoobs">Can\'t run, boobs too big! (Hard game mode)</text>
 			<text name="Gallery">Gallery</text>
 			<text name="Credits">Credits</text>
 			<text name="NoAchievementsYet">Pas encore d\'achievements!</text>
@@ -6064,6 +6096,7 @@ Enjoy!
 			<text name="THEEND">LA FIN</text>
 			<text name="KEEPPLAYING">CONTINUE À JOUER</text>
 			<text name="CheatEnabledNoB">Cheat Mode! Pas de bonus!</text>
+			<text name="MASSAGE">MASSAGE</text>
 			<text name="OhPrincess">OH PRINCESSE...</text>
 			<text name="PrincessSwallowed">La princesse a été avalée!</text>
 			<text name="WhatWouldHaveFailed">Qu\'est-ce qui serait arrivé à la princesse si elle aurait échoué?</text>
@@ -6194,7 +6227,7 @@ Enjoy!
 		<text name="7-7">Forsucked Palace</text>
 		<text name="8-1">Tank Wank Brigade I</text>
 		<text name="8-2">Boob Valley</text>
-		<text name="8-3">NOT YET</text>
+		<text name="8-3">Rotten Dessert</text>
 		<text name="8-4">NOT YET</text>
 		<text name="8-5">NOT YET</text>
 		<text name="8-6">NOT YET</text>
