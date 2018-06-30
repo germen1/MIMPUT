@@ -24,12 +24,38 @@ Thank you for enjoying the game!
 - PLEASE PAY ATTENTION to certain browsers (like CHROME) and latest Flash versions (like 20). It MAY make the game crash or give many strange bugs! At first, try to clean all your flash/browser cache, then try another browser or a former Flash Version, like 12. The game was started using Flash Player 10, and I tried my most to retain that compatibility, although I am now targetting Flash 16 and 17.
 
 ===============================================
+Update 3.47 (30th June 2018)
+(This larger time to update the game was due to my moving from a city to another and a moment of more intense job)
+- NEW: Level 8-3 (Rotten Dessert) made by me.
+- NEW: Jellyfish scene by Blargh! You can find it if you had the scene in the secret 'sand place' and you keep going in later levels (she will appear in a kyosk near the end of the next level).
+- NEW: 'Rotten mushroom big'. He's that big mushroom the princess mounts on. That one usually appear in 'dark, rotten areas', like in level 8-3. If she does sex, she will get some side effects, like a bigger belly (if not already big) or drunkness.
+- NEW: The princess can 'taunt' herself in her mirror next to her bed in Peach's Castle.
+- NEW: A boot to choose from (shoe types): X-Naut boots.
+- NEW: Glow gold effect when taking coins.
+- NEW art: 'grassed dirty floor'. Its in level 4-2.
+- Added piranha plants in level 7-2, 8-1 and 8-2.
+- Added Peach with dick variant (futanari) in achievement art, only if 'She can be a futa' is YES in the options. Futa princess is NOT yet in the game, but you can enjoy futa Peach in those art. To turn it off, just put 'she can be a futa' as NO. The plan is to have a true futa princess walking around IF 'she can be a futa' is YES, and a potion or an event TURNED HER into a futa.
+- Rule change: In 'HARD GAME' mode, 'worldmap 8' pipe wont allow the princess to return to her castle. She is trapped there until finishing the game.
+- Rule change: In 'HARD GAME' mode, and her boob size is over Size 4 or 5, she can't run anymore (she will be moving slowly) until she her boobs become smaller
+- BUG FIX: Most of the showers didn't work (tested in normal game mode)
+- BUG FIX: In a Jabbi scene, the Princess was freezing up (also happened in the gallery).
+- BUG FIX: The princess is 'immediatelly dropping dead' (flying down) in certain levels like 1-3.
+- Glitch Fix: 'Mushroom Big' scenes not happening anymore.
+- Glitch Fix: First Pokey scene with some abrupt 'changes' like princess' head when subscene1 repeats. Also, its not repeating the same sucking pose many times.
+- Glitch Fix: If you give the Bobomb Buddy a Handjob/Titjob, the peach cannot use the computer. She has to leave the bunker and come back to change levels (tested in normal game mode)
+- Glitch Fix: If the player reseted the saves, the Gallery and some Achievements weren't reseted. Could not restore a clean game.
+- Glitch Fix: After finishing Level 8-2, the second door of the worldmap broke, but the castle level (endlevel)(8-8) kept enabled = false (if you know what I mean)
+- Glitch Fix: when in hard game mode, different creatures appear, like Xnauts. The problem is that he's instantly sending the princess to Xnaut lab.
+- Glitch Fix: in hard game mode, whenever a new enemy has sex with the princess, it nearly always pops up saying 'she lost her virginity'.
+- Other small fixes, like 'no more two lady Bows in certain places in hard game mode'.
+	(CANT REPRODUCE) - Glitch Fix: Lingerie doesn't appear to be saved after loading a save file. Peach went from pink gloves, garter, and stockings to completely nude.
+
 Update 3.46 (24th February 2018)
 - NEW scene: Mouser in the prison by Blargh! To see it, you have to lose all your lives two times (so, two 'game overs'). If you keep having 'game overs', Bowser or Bowser Jr will appear there later, then Mouser might reappear in the future. Right in the second gameover, you will lose your virginity if any, so beware!
 - NEW scene: 'The princess getting paid for slutty services' made by me. This scene is triggered when you find a screen (a wooden clothing changer) in the bars and in certain outside areas of Delfino land. If you're a nymph, you can activate this scene, where you can select which service you will be doing (handjob, boobjob, blowjob, vaginal sex and anal sex). A random creature will then appear to fulfill his desires. Each one will give a certain amount of coins. Be careful, though. In certain times, a creature could be so 'thirsty' they would do a gangbang (but you'll certain earn more coins!)
 - Rule change: now you will only get the achievement 'Gangbanged in the prison' if Mouser gangbang scene, goomba gangbang scene and Koopa gangbang scene are executed in the prison, so, many gameovers are needed to unlock it.
 - Rule change: Monty moles wont appear in the prison anymore. That's because there isnt a proper gangbang scene, and even if so, the prison achievement art would be even harder to get from many gangbang creatures.
-- Rule change: Creatures that open the door in the prison will do a 'gangbang scene' if the princess touches them.
+- Rule change: Creatures that open the door in the prision will do a 'gangbang scene' if the princess touches them.
 - XML i18n: new editable text (Drink billboard and 'The hottest girls for the right place' billboard) and others (new scenes)
 - Glitch Fix: "Quick Warp to an Active Level" was showing "Quick Warp to an Active" only, in the load game screen.
 - Glitch Fix: "ERROR in XML" when interacting with the green house near Blacksmith house in Toad Town.
