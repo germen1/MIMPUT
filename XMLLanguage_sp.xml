@@ -6285,6 +6285,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOutfit_Gloves">Guantes</text>
 			<text name="ScreenOutfit_Stockings">Medias</text>
 			<text name="ScreenOutfit_Heels">Tacones</text>
+			<text name="ScreenOutfit_Shoes">Sapatos</text>
 			<text name="ScreenOutfit_Garter">Ligas</text>
 			<text name="ScreenOutfit_Character">Personaje</text>
 			<text name="ScreenOutfit_EarringsSize">Tam.Pendienes</text>
