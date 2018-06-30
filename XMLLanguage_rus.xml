@@ -771,6 +771,13 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="4a">I can\'t give my...asshole...I refrain myself to do that!</p>
 			</scenes>
 
+			<scenes scene="princessTauntMirror">
+				<p i="1">I am\nso beautiful...</p>
+				<p i="2">I love\nseeing my back... and my butt...Er...</p>
+				<p i="3">Hihihi,\nI am swinging my perverted butt...</p>
+				<p i="4">Ooohhh,\nI can\'t stand myself, just some spanking...Ahh!</p>
+			</scenes>
+			
 	<!--MORE THAN ONE PRINCESS-->
 			<scenes scene="princessesGangbang">
 				<p i="1">What are you\ngirls doing here!?</p>
@@ -2139,6 +2146,26 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="5">Please calm\ndown, let me finish it.. completelly...</f>
 				<p i="5">Aaah, cumming!\nDon\'t ea...drink it! That\'s enough, really...</p>
 			</scenes>			
+			<scenes scene="jellyfish2">
+				<p i="1">There were tw-\nOh!? That tickles a little! Mmm, feels nice though.</p>
+				<f i="1">Oh, Customer!\nYou\'re stiff as a board! But don\'t worry!</f>
+				<e i="1">We\'ll have you\nmelting in our arms! Now, let\'s get those clothes off.</e>
+				<p i="2">\nOh! This is really nice, but their boobs are pressing into me all over!</p>
+				<f i="2">\nJust relax! Let go and enjoy the massage.</f>
+				<e i="2">\nLet all your worries just melt away.</e>
+				<p i="3">\nMmm! I just feel so--so good! Something is building up inside me!</p>
+				<f i="3">\nYes, that\'s it! Just relax and enjoy the feelings.</f>
+				<e i="3">\nWe\'ll help you release it all. Just let it all out.</e>
+				<p i="4">\nOh yes!\nKeep rubbing me! I\'m gonna cum!</p>
+				<f i="4">\nNo! Customer! This isn\'t that kind of establishment!</f>
+				<e i="4">\nOh, sister! Let\'s just give her \'All That She Wants\'!</e>
+				<p i="5">\nSo close! I\'m gonna cum hard on your face!</p>
+				<f i="5">*Mmf!*\nHer pussy is so soft! My face is moistening from her pussy juice!</f>
+				<e i="5">Wow! My hands\nare just sinking into your tits! So soft and fleshy!</e>
+				<p i="6">\nOooohhhh...That was sooo relaxing. I have to come again soon!</p>
+				<f i="6">\nI suppose we could expand our offerings, sister.</f>
+				<e i="6">\nMmm, yes. I think I can agree to that!</e>
+			</scenes>			
 
 	<!--SOCKHOPs (green sacks that hops around)-->
 			<scenes scene="sockhop1">
@@ -3368,6 +3395,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<scenes scene="dialogueJellyFish">
 				<f i="1">Hello, Princess! It\'s a surprise to see you around here! Want some massaging?</f>
 				<p i="2">(ВЫБEРИ НOМEР)\n1) Yes, why not?\n2) No, I dont need it.</p>
+				<f i="2">Hello back, my dear! Want some massaging here in the Beach?</f>
 			</scenes>			
 
 			<scenes scene="dialogueToad">
@@ -3719,7 +3747,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 
 			<scenes scene="dialogueGrodusShelf">
 				<p i="1">Where is the disk?</p>
-				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n5) Leave</p>
+				<p i="2">(Press a Number)\n1) First rack   2) Second rack   3) Third rack   4) Fourth rack\n{NEXTKEY}) Leave</p>
 				<p i="4">I got it!</p>
 				<p i="5">It\'s not here...</p>
 			</scenes>
@@ -4067,7 +4095,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			</scenes>
 
 			<scenes scene="dialogueDrawer">
-				<p i="1">Which drawer do you want me to open?\n1) FIRST      2) SECOND\n3) THIRD    4) Leave</p>
+				<p i="1">Which drawer do you want me to open?\n1) FIRST      2) SECOND\n3) THIRD    {NEXTKEY}) Leave</p>
 				<p i="2">inside. Do I take it?\n1) YES\n2) NO</p>
 				<p i="3">I am already full. I have to drop the current one I already have.</p>
 				<p i="4">I Added to my \'one-item\' inventory. I can only carry one at a time (You have to click on it in the HUD, next to your score, to use it)</p>
@@ -5718,6 +5746,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Color_Gold">Gold</text>
 			<text name="Color_Cyan">Cyan</text>
 			<text name="Color_Opaque">Opaque</text>
+			<text name="Boot">Boot</text>
 			<text name="None">None</text>
 			<text name="layer">layer</text>
 			<text name="layers">layers</text>
@@ -5730,6 +5759,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="OhNo">О нeт!</text>
 			<text name="By">By</text>
 			<text name="somethingUnlocked">Что-то ра3блокировано!</text>
+			<text name="CantRunLargeBoobs">You can\'t run with those larger jugs in hard game mode!</text>
 			<text name="TimeIsUp">ВРEМЯ ВЫШЛО! Принцeсса проиграла!</text>
 			<text name="ThePrincessDizzyArousal">The princess is dizzy due to the high arousal!</text>
 			<text name="REMOVEDCLOTHESPRESS">УБРАТЬ EЁ ОДEЖДУ! - НАЖМИ</text>
@@ -5998,6 +6028,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="PressRunGrabDecent">Press RUN key to grab it decently.</text>
 			<text name="CannotCarryTwoKeys">Cannot carry two keys at once. Remove one of them first!</text>
 			<text name="CantDoThatInWorldmap">Can\'t do that in the worldmap!</text>
+			<text name="ThisIsOneWayPipe">This is a one-way pipe. I can\'t use it!</text>
 			<text name="CanOnlyScrollingWorldmap">You can only set the SCROLLING in the Worldmap or in Peach\'s Castle!</text>
 			<text name="StationaryOFFExiting">StationaryCamera is now off. Exiting Options Screen to activate changes.</text>
 			<text name="CanOnlyStationaryWorldmap">You can only set the STATIONARY CAMERA in the Worldmap!</text>
@@ -6072,6 +6103,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="Options">Настр.</text>
 			<text name="NormalGame">Normal Game*</text>
 			<text name="HardGame">Hard Game*</text>
+			<text name="HardGameCantRunBoobs">Can\'t run, boobs too big! (Hard game mode)</text>
 			<text name="Gallery">Галерея</text>
 			<text name="Credits">Credits*</text>
 			<text name="NoAchievementsYet">НEТ ДОСТИЖEНИЙ!</text>
@@ -6086,6 +6118,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="THEEND">КОНEЦ</text>
 			<text name="KEEPPLAYING">KEEP PLAYING</text>
 			<text name="CheatEnabledNoB">ЧИТ-МОД! БE3 БОНУСОВ!</text>
+			<text name="MASSAGE">MASSAGE</text>
 			<text name="OhPrincess">Охх Принцeсса...</text>
 			<text name="PrincessSwallowed">The princess was swallowed!</text>
 			<text name="WhatWouldHaveFailed">What would have happened to the Princess if she failed?</text>
@@ -6215,7 +6248,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="7-7">Palacio Fodido</text>
 		<text name="8-1">Tank Wank Brigade I</text>
 		<text name="8-2">Boob Valley</text>
-		<text name="8-3">NOT YET</text>
+		<text name="8-3">Rotten Dessert</text>
 		<text name="8-4">NOT YET</text>
 		<text name="8-5">NOT YET</text>
 		<text name="8-6">NOT YET</text>
