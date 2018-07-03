@@ -6245,16 +6245,16 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="9-3">Moon Abyss</text>
 	
 	<!--SCREENS: PROLOGUE -->
-		<text name="PrologueOnceUpon">Once upon a time, Mushroom Kingdom was a very calm place.\n The princess was the ruler of all inhabitants of this distant land.</text>
-		<text name="PrologueAmongToads">The princess was always among toads, little beings that protected her and the Castle.\nThey are everywhere, helping the princess everytime she needs a hand.</text>
+		<text name="PrologueOnceUpon">The Mushroom Kingdom enjoyed years of\npeace and happiness with the princess Peach\n as their ruler.</text>
+		<text name="PrologueAmongToads">Her gentle and loving care made every Toadstool\n feel like they knew her intimately.\n Always close at hand, they never hesitated to show\n her their affection.</text>
 		<text name="PrologueLewdToads">Sometimes...Due to her pubescent urges, she ended up doing more than caressing the toads...</text>
 		<text name="PrologueCallingToads">The princess was then calling the toads before breakfast, before lunch, during the afternoon and before bed...\nUntil a special weekend arrived...</text>
 		<text name="ScreenTrain_MarioAfter">Mario, after his latest quest, finally calls Princess Peach for a dinner in the Train.</text>
 		<text name="PeachInvites">THE PRINCESS invites Mario to her castle...\nShe will finally have her\nfirst experience...</text>
 		<text name="ButSomethingBad">But something bad is about\nto happen....</text>
-		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>
-		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHEROMONES...</text>
 		<text name="AirshipsInvade">AIRSHIPS INVADE\nMUSHROOM KINGDOM!</text>
+		<text name="KamekCurses">...AND KAMEK CURSES THE INHABITANTS AND OBJECTS WITH DIRTY PHEROMONES...</text>
+		<text name="PeachInvitesAgain">THE PRINCESS invites Mario to her\ncastle again...</text>=
 		
 		<text name="DuringTheNight">DURING THE NIGHT...</text>
 		<text name="PrincessIsAsleep">THE PRINCESS IS ASLEEP...MARIO LEFT THE ROOM...</text>
