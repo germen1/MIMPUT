@@ -24,6 +24,31 @@ Thank you for enjoying the game!
 - PLEASE PAY ATTENTION to certain browsers (like CHROME) and latest Flash versions (like 20). It MAY make the game crash or give many strange bugs! At first, try to clean all your flash/browser cache, then try another browser or a former Flash Version, like 12. The game was started using Flash Player 10, and I tried my most to retain that compatibility, although I am now targetting Flash 16 and 17.
 
 ===============================================
+Update 3.48 (2nd November 2018)
+(INFO) - PHEW! What happened? Just my job 'killing' my nerves and time. I do have a plan to leave my job and prioritize more projects, but I told myself I'll only do this if I complete this game and starts Wonderful Sonja project! In the meantime, I was refreshing my mind with other games as well (just for curiosity, 'Adventures of Tara' - RPGmaker game), so I could get more ideas and restart my brain. Thank you again and again for all the support!
+- NEW SCENE: Final scene (Bowser and the princess, then Mario and Shadow Queen) in Bowser Castle level by Blargh! It has three different moves: virgin, normal and nymph princess. But! 'normal' and 'nymph' scenes will be 'akin' (mostly, if not all, identical). Blargh will be doing adjustments in order to make the nymph scene more adequate.
+- NEW SCENE: Luigi Gloryhole scene! For it to happen, you have to find Luigi in the bathroom of the club in 6-4 level. Just use the toilet in the middle IF you notice the right door is locked up. This happen 33% of the time you enter in the club.
+- NEW OUTFIT: Bowsette (by Blargh!). For now, the powerup indeed exists in the game (in Bowser Castle level). If you're playing with a character OTHER THAN PEACH, the powerup will give her the greeny outfit and it will change her to PEACHY character (she will be with Peach voices and you can even access her Achivement art!). If she is already Peach, she will just gain the outfit. As of her effects, she will be faster and no creature will fuck her by touching her (EXCEPT Koopalings, Bowser Jr included). Some creatures can still do lewd scenes with her (like Sockhops, BossBass and Chompette, provided Vore is ON). And if some interact with her (like Xnauts or Osama talking to you), she might be fucked still.
+- NEW: 'Press SPACE' (or a configured next key) message in all scenes, so you will know when to press a key. Actually, this was an awaited feature, as people didn't know when to press 'next key', like certain boss scenes, as there are certain movements the player was thinking it's being repeated, but it's actually 'different' movements, before cumming, for example.
+- NEW: Just an animated masturbating Birdo in the title screen (she was too paralysed, while others are alive)
+- Improved futa peach achievement art (if you activated 'She is a Futa'), thanks Blargh
+- Added three Bowser scenes to the gallery (mount, final virgin and final normal/whore). Before, there was only a mix of scene1 and scene2, along with Bowser JR. Texts updated. Remember those gallery text are still 'stuck to english'. I may add a way to change those titles via XML.
+- Added the remaining 'stomp' and 'knockout' animations for Bowser Jr.
+- Rule Change: now, if the princess reenters in the club in 6-4 level before a minute, she will say she will wait for some seconds. That's because now Wario can be in different places, and Luigi can appear there too (you dont need to reset the level to see new actions inside).
+- Rule Change: now, if the princess is not nymph enough, she wont just suck dicks in those gloryholes along some levels or in her castle closet.
+- BUG FIX: 'Same Dialogues when Scene is repeated' giving 'Default Text' messages. I am so sorry due to the amount of time to fix it. It was due to 'ReferenceError: Error #1065: Variable _msg is not defined' in certain cases. Please remember that IT'S NOT CURRENTLY POSSIBLE to have NON RANDOM dialogues when a nymph because there is no alternative 'fixed text' for lewd/nymph princess. Generally, most creatures make the character say only innocent text. That's why, once she is a nymph, her talk is random. In the future (perhaps after the main game is completed, that is, a final release), I can add the feature, so when selecting 'Same dialogues when the scene is repeated' will ALSO works for nymph status, provided whe current scene has a fixed non-random unicque talk inside it.
+- BUG FIX: The 'remove clothes' dialogue wont appear anymore in certain cases the princess finishes a given scene (or cums) while not touching ground. TECH INFO: the code DOES check if she is touching a given ledge/ground before the fix, but the problem was that, for a GLIMPSE, the 'check ground' was still TRUE. Now I set it FALSE.
+- Glitch Fix: when using the cheats, then restarting the game, the Achivements weren't being locked.
+- Glitch Fix: non reachable coin in Shyguy Village level.
+- Glitch Fix: when ending a given scene, the princess was 'falling a little'. Now she is positioned in the ground correctly.
+- Glitch Fix: Futa Peach appearing in Achievements in Chomp, Morton, Iggy and Ludwig (even with FUTA off)
+- Glitch Fix: When talking with ShyGuy guard in ShyGuy town, he was not saying what to do. After just saying 'Ask how to be allowed to enter', by pressing SPACE some times, the princess just started the scene.
+- Glitch Fix: 'weird nipples on her butt' in first Shyguy Gourmet and Sockhop (green sack) scenes (TECH INFO: again, I needed to put the object in other than frame 1 due to Flash 'first grab item code' glitch, as the princess bodyparts are replaced and changed microsseconds later in frame 1).
+- Glitch Fix: certain positioning of her arms agains her torso in scenes like Phanto scene 5, Monty Mole scene 5, 'insert key in the metal door', Boo scene 6, Toadsworth bed scene and Chomp Scene 6. I ask people for more glitches like the ones found in by Nyathon in post https://legendofkrystal.com/forum/viewtopic.php?f=34&t=2265&start=16260#p732930 so I can track and fix them. But there are certain VERY SMALL glitches that couldnt be removed due to game limitation.
+- Glitch Fix: when seeing Gallery scenes, if you press 'MAIN GALLERY' button with the mouse, then 'MENU' button, and then 'X' button, the princess was locked in place. The problem was the X button itself.
+- Glitch Fix: the princess was still losing her bra (or part of her torso clothes), shredding it so her boobs were out in the open, when SHRED BRA IF was NONE in the options. TECH INFO: renewed function checkIfCanShredBra().
+
+
 Update 3.47 (30th June 2018)
 (This larger time to update the game was due to my moving from a city to another and a moment of more intense job)
 - NEW: Level 8-3 (Rotten Dessert) made by me.
@@ -34,7 +59,7 @@ Update 3.47 (30th June 2018)
 - NEW: Glow gold effect when taking coins.
 - NEW art: 'grassed dirty floor'. Its in level 4-2.
 - Added piranha plants in level 7-2, 8-1 and 8-2.
-- Added Peach with dick variant (futanari) in achievement art, only if 'She can be a futa' is YES in the options. Futa princess is NOT yet in the game, but you can enjoy futa Peach in those art. To turn it off, just put 'she can be a futa' as NO. The plan is to have a true futa princess walking around IF 'she can be a futa' is YES, and a potion or an event TURNED HER into a futa.
+- Added Peach with dick variant (futanari) in achievement art, only if 'She can be a futa' is YES in the options. Futa princess is NOT yet in the game, but you can enjoy futa Peach in those art. To turn it off, just put 'she can be a futa' as NO. The plan is to have a true futa princess walking around IF 'she can be a futa' is YES, and a potion or an event TURN HER into a futa.
 - Rule change: In 'HARD GAME' mode, 'worldmap 8' pipe wont allow the princess to return to her castle. She is trapped there until finishing the game.
 - Rule change: In 'HARD GAME' mode, and her boob size is over Size 4 or 5, she can't run anymore (she will be moving slowly) until she her boobs become smaller
 - BUG FIX: Most of the showers didn't work (tested in normal game mode)
@@ -47,8 +72,15 @@ Update 3.47 (30th June 2018)
 - Glitch Fix: After finishing Level 8-2, the second door of the worldmap broke, but the castle level (endlevel)(8-8) kept enabled = false (if you know what I mean)
 - Glitch Fix: when in hard game mode, different creatures appear, like Xnauts. The problem is that he's instantly sending the princess to Xnaut lab.
 - Glitch Fix: in hard game mode, whenever a new enemy has sex with the princess, it nearly always pops up saying 'she lost her virginity'.
+- Glitch Fix: Strange 'true(SPACE)' message in Poochy scene.
+- Glitch Fix: Strange empty white balloon in Poochy scene, when she licks her asshole (when the princess is horny enough and he 'attacks' her).
+- Glitch Fix: When we had at least '10 lays' on one level, the princess was talking like a nymph even if it was a new scene. Also, the whole option to turn off nymph messages during scenes wasn't working either. Finally, forcing personality to 'innocent' also didnt work. All of those are now fixed.
+- Glitch Fix: The golden crown in her cake (and other 'fixed crowns) disappeared from certain levels.
+- Glitch Fix: When the toads carried the cake away from the kitchen, sometimes the camera warped to a wrong position (tech info: HQ with wrong Y pos due to far away REG point)
+- Glitch Fix: Toads having anal scenes even with 'Allow Anal' as NO in the options. The problems happened with 'Toads lascivity as ALWAYS' in the options. The same with the toad inside her pink closet. Thats because normal toads had DIALOGUES for us to choose. Even with allow anal OFF, we can select an anal one. But this must not happen when toads take her without our consent (Toad Lascivity).
 - Other small fixes, like 'no more two lady Bows in certain places in hard game mode'.
 	(CANT REPRODUCE) - Glitch Fix: Lingerie doesn't appear to be saved after loading a save file. Peach went from pink gloves, garter, and stockings to completely nude.
+	(CANT REPRODUCE) - Glitch Fix: Poochy interacting with Toad at the same time (cloned princess) in level 4-3 (inside a wooden toad house)
 
 Update 3.46 (24th February 2018)
 - NEW scene: Mouser in the prison by Blargh! To see it, you have to lose all your lives two times (so, two 'game overs'). If you keep having 'game overs', Bowser or Bowser Jr will appear there later, then Mouser might reappear in the future. Right in the second gameover, you will lose your virginity if any, so beware!
