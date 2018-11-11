@@ -1979,6 +1979,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="3">Ahhhh, it\'s\ngushing! Oooh I am so greasy!</p>
 			</scenes>			
 
+	<!--Pointeys-->
+			<scenes scene="pointey1">
+				<p i="1">Hmmmm, nãao! O que você está fazendo na minha bunda! Ah!</p>
+				<p i="2">Oooou, você está me\n fudendo...aqui! Foda-me... logo!</p>
+			</scenes>			
+			
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
 				<f i="1">O que você quer fazer com sua \'mamãe\'? \n1) Mamar nos peitinhos  2) Chupar a vagina \n3) Putaria geral!  {NEXTKEY}) Deixe-a ir</f>
@@ -2059,6 +2065,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="7">Luigi: I dont know where my bro is. He keeps disappearing and he never calls me!</f>
 				<f i="8">Luigi: Moreover, I am reading a great book I\'ve made. It\'s name is: \'Touching inner areas\' Are you wishing to hear it?</f>
 				<p i="9">(Press a Number)\n1) Yes, please read it! \n2) No, thank you!</p>
+				<f i="10">Eita, você está falando sério?</f>
 			</scenes>			
 			<scenes scene="luigiGloryhole">
 				<p i="1">Oh, esta priva-\nda cheira a...macho! Está me deixando doidona...</p>
@@ -3453,6 +3460,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				
 			<scenes scene="dialogueGloryHole">
 				<p i="1">A gloryhole with....a dick!\n1) Play with it  2) Ignore it</p>
+				<p i="2">O quê!? É claro que não!! É vergonhoso fazer isso...</p>
 			</scenes>			
 
 			<scenes scene="dialoguePunyElder">
@@ -4594,6 +4602,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">Esta estátua é...tão pervertida! Veja essa...piroca! A cabeça parece de carne! Minha nossa!</p>
 				<p i="3">Esta estátua está fazendo uma pose muito excitante! Eu...não consigo me segurar!</p>
 				<p i="4">Esta estátua está com vergonha! Hehe. Ou...talvez se prepare para \'pular\' em cima de mim!!</p>
+				<p i="5">Oh! Mario está nesta gaiola acima! Preciso pensar em como posso subir até lá...</p>
 			</scenes>
 
 			<scenes scene="level9-1">
@@ -5879,6 +5888,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="bellyEmpty">The belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
 			<text name="thisActionHelpFreeChainball">This action helped you to free yourself from the chain ball!</text>
+			<text name="ICantEnterDoorSeconds">Ops, eu mal saí! Não quero chamar atenção. Talvez depois de alguns segundos...</text>
 			<text name="ICantClimbCarrying">Eu não posso subir enquanto estiver com isto em minhas mãos. Preciso enfiar em...algum lugar!\n1) Bem... vou por no meu cu!\n2) Salir</text>
 			<text name="ExtraLife">Vida Extra</text>
 			<text name="WorldDoesntExist">WORLD DOESNT EXIST YET! Lumas of the Star Road are making them.</text>
@@ -6433,6 +6443,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 		<text name="ScreenOptions_Header_MusicVolume">Volumen de la Musica</text>
 		<text name="ScreenOptions_Header_SoundsONOFF">Sonidos ON/OFF</text>
 		<text name="ScreenOptions_Header_Shoes">Sonidos de zapatos/pisadas</text>
+		<text name="ScreenOptions_Header_Coins">Som de Moedas</text>
 		<text name="ScreenOptions_Header_Fart">Pedos</text>
 		<text name="ScreenOptions_Header_ReplaceBoeing">Remplazar sonidos Boing con sonidos de Semen</text>
 		<text name="ScreenOptions_Header_WaterfallAmbient">Sonidos de cascada ambientales</text>

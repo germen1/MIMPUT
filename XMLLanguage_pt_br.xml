@@ -1989,6 +1989,12 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="3">Ahhhh, está\nchiringando porra! Estou toda meladona!</p>
 			</scenes>			
 
+	<!--Pointeys-->
+			<scenes scene="pointey1">
+				<p i="1">Hmmmm, nãao! O que você está fazendo na minha bunda! Ah!</p>
+				<p i="2">Oooou, você está me\n fudendo...aqui! Foda-me... logo!</p>
+			</scenes>			
+			
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
 				<f i="1">O que você quer fazer com sua \'mamãe\'? \n1) Mamar nos peitinhos  2) Chupar a vagina \n3) Putaria geral!  {NEXTKEY}) Deixe-a ir</f>
@@ -2069,6 +2075,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<f i="7">Luigi: Não sei aonde meu mano está. Ele sempre some quando vai comer muito e nunca me chama!</f>
 				<f i="8">Luigi: Além do mais, estou lendo um excelente livro que fiz. O nome é: \'Tocando áreas calientes\'. Você quer ouvir?</f>
 				<p i="9">(ESCOLHA UM NÚMERO)\n1) Sim, por favor! \n2) Não, obrigada!</p>
+				<f i="10">Eita, você está falando sério?</f>
 			</scenes>			
 			<scenes scene="luigiGloryhole">
 				<p i="1">Oh, esta priva-\nda cheira a...macho! Está me deixando doidona...</p>
@@ -3463,6 +3470,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				
 			<scenes scene="dialogueGloryHole">
 				<p i="1">Um...buraco glorioso com....um pinto!\n1) Brincar com ele  2) Sair</p>
+				<p i="2">O quê!? É claro que não!! É vergonhoso fazer isso...</p>
 			</scenes>			
 
 			<scenes scene="dialoguePunyElder">
@@ -4604,6 +4612,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 				<p i="2">Esta estátua é...tão pervertida! Veja essa...piroca! A cabeça parece de carne! Minha nossa!</p>
 				<p i="3">Esta estátua está fazendo uma pose muito excitante! Eu...não consigo me segurar!</p>
 				<p i="4">Esta estátua está com vergonha! Hehe. Ou...talvez se prepare para \'pular\' em cima de mim!!</p>
+				<p i="5">Oh! Mario está nesta gaiola acima! Preciso pensar em como posso subir até lá...</p>
 			</scenes>
 
 			<scenes scene="level9-1">
@@ -5893,6 +5902,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="bellyEmpty">Sua barriga agora está vazia!</text>
 			<text name="bellyDecreased">Barriga diminuiu! Para diminuir mais, espera alguns segundos primeiro!</text>
 			<text name="thisActionHelpFreeChainball">Esta ação te ajudou a liberar-se da bola de ferro!</text>
+			<text name="ICantEnterDoorSeconds">Ops, eu mal saí! Não quero chamar atenção. Talvez depois de alguns segundos...</text>
 			<text name="ICantClimbCarrying">Eu não posso subir enquanto estiver com isto em minhas mãos. Preciso enfiar em...algum lugar!\n1) Bem... vou por no meu cu!\n2) Sair</text>
 			<text name="ExtraLife">Vida</text>
 			<text name="WorldDoesntExist">ESTE MUNDO NÃO ESTÁ DISPONÍVEL AINDA. Os Lumas ainda o estão fazendo!</text>
@@ -6451,6 +6461,7 @@ Você pode até viver sem o \n, mas o texto não terá quebra de linha, e muitos
 			<text name="ScreenOptions_Header_MusicVolume">Voume Música</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Som LIG/DESL</text>
 			<text name="ScreenOptions_Header_Shoes">Sons Sapato/Pés</text>
+			<text name="ScreenOptions_Header_Coins">Som de Moedas</text>
 			<text name="ScreenOptions_Header_Fart">Peidos</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Mudar som \'Boeing\' para os de Sêmen</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Sons de Cachoeiras</text>

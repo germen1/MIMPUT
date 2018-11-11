@@ -1980,6 +1980,12 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="3">Ahhhh, it\'s\ngushing! Oooh I\'m so greasy!</p>
 			</scenes>			
 
+	<!--Pointeys-->
+			<scenes scene="pointey1">
+				<p i="1">Hmmmm, noo!\nWhat are you doing in my butt...Stop! Ah!</p>
+				<p i="2">Ooooh, you\'re fucking it... right here...Do it quick!</p>
+			</scenes>			
+			
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
 				<f i="1">What do you want to do with your \'mommy\'? \n1) Suck her boobies  2) Suck her pussy \n3) Gangbang!  {NEXTKEY}) Go away</f>
@@ -2060,6 +2066,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<f i="7">Luigi: I don\'t know where my bro is. He keeps disappearing and he never calls me!</f>
 				<f i="8">Luigi: Moreover, I\'m reading a great book I\'ve made. Its name is: \'Touching inner areas\' Are you wishing to hear it?</f>
 				<p i="9">(Press a Number)\n1) Yes, please read it! \n2) No, thank you!</p>
+				<f i="10">Are you for real?</f>
 			</scenes>			
 			<scenes scene="luigiGloryhole">
 				<p i="1">Oh, this toilet\nsmells so...manly? It makes me want to do something naughty!</p>
@@ -3455,6 +3462,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				
 			<scenes scene="dialogueGloryHole">
 				<p i="1">A gloryhole with....a dick!\n1) Play with it  2) Ignore it</p>
+				<p i="2">What!? Of course not! I am too embarrassed to do it!</p>
 			</scenes>			
 
 			<scenes scene="dialoguePunyElder">
@@ -4597,6 +4605,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 				<p i="2">This statue is... so perverted! Just see that... dick! It\'s tip is like flesh! Oh my!</p>
 				<p i="3">This statue is making a so horny pose! I can\'t stand myself!</p>
 				<p i="4">This statue is embarrassed! Hehe... Or... perhaps it\'s going to sneak \'into\' me!!</p>
+				<p i="5">Oh! Mario is in that cage above! I need to figure out how I can climb there!</p>
 			</scenes>
 			
 			<scenes scene="level9-1">
@@ -5883,6 +5892,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="bellyEmpty">Your belly is now empty!</text>
 			<text name="bellyDecreased">Belly decreased. To decrease more, please wait some seconds first!</text>
 			<text name="thisActionHelpFreeChainball">This action helped you to free yourself from the chain ball!</text>
+			<text name="ICantEnterDoorSeconds">Whopsie! I recently left there! I don\'t want to be noticed so early! I want to wait some seconds...</text>
 			<text name="ICantClimbCarrying">I can\'t climb while carrying this in my hands. I need to stuck it somewhere!\n1) Oh well...Stuck it in my ass!\n2) Leave</text>
 			<text name="WorldDoesntExist">WORLD DOESNT EXIST YET! Lumas of the Star Road are making them.</text>
 			<text name="pressUPProgramCannon">Press \'UP\' key to program the cannon</text>
@@ -6437,6 +6447,7 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 			<text name="ScreenOptions_Header_MusicVolume">Hlasitost Hudby</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Zvuky ZAP/VYP</text>
 			<text name="ScreenOptions_Header_Shoes">Zvuky bot/chodid...</text>
+			<text name="ScreenOptions_Header_Coins">Coin Sounds</text>
 			<text name="ScreenOptions_Header_Fart">Povolit Prdy</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Nahradit \'Boing\' zvuk, zvuky Semene</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Zvuky vodopádu na pozadí</text>

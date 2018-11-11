@@ -1984,6 +1984,12 @@ Enjoy!
 				<p i="3">Ahhhh, Ca jaillit! Oooh Je sens tellement bien!</p>
 			</scenes>			
 
+	<!--Pointeys-->
+			<scenes scene="pointey1">
+				<p i="1">Hmmmm, noo!\nWhat are you doing in my butt...Stop! Ah!</p>
+				<p i="2">Ooooh, you\'re fucking\nit... right here...Do it quick!</p>
+			</scenes>			
+			
 	<!--LUMAs (star-like creatures from SUPER MARIO GALAXY)-->
 			<scenes scene="luma">
 				<f i="1">Qu\'est-ce que tu veux faire avec ta \'maman\'? \n1) Sucer ses sins  2) Sucer sa cahtte \n3) Partir</f>
@@ -2061,6 +2067,7 @@ Enjoy!
 				<f i="7">Luigi: Je ne sais pas où est mon frère. Il ne cesse de disparaître et il ne m\'appelle jamais!</f>
 				<f i="8">Luigi:De plus, je lis un bon livre I\'ve made. Son nom est: \'Toucher les zones intérieures\' Souhaitez-vous que je lise?</f>
 				<p i="9">(Press a Number)\n1) Oui, S\'il te plait lit le! \n2) Non, Merci!</p>
+				<f i="10">Are you for real?</f>
 			</scenes>			
 			<scenes scene="luigiGloryhole">
 				<p i="1">Oh, cette toilette sente ...le sperme? Ça me donne envie de faire de mauvaise chose!</p>
@@ -3455,6 +3462,7 @@ Enjoy!
 				
 			<scenes scene="dialogueGloryHole">
 				<p i="1">A gloryhole with....a dick!\n1) Play with it  2) Ignore it</p>
+				<p i="2">What!? Of course not! I am too embarrassed to do it!</p>
 			</scenes>			
 
 			<scenes scene="dialoguePunyElder">
@@ -4594,6 +4602,7 @@ Enjoy!
 				<p i="2">This statue is... so perverted! Just see that... dick! It\'s tip is like flesh! Oh my!</p>
 				<p i="3">This statue is making a so horny pose! I can\'t stand myself!</p>
 				<p i="4">This statue is embarrassed! Hehe... Or... perhaps it\'s going to sneak \'into\' me!!</p>
+				<p i="5">Oh! Mario is in that cage above! I need to figure out how I can climb there!</p>
 			</scenes>
 
 			<scenes scene="level9-1">
@@ -5875,6 +5884,7 @@ Enjoy!
 			<text name="bellyEmpty">Le ventre est maintenant vide!</text>
 			<text name="bellyDecreased">Diminution du ventre. Pour diminuer plus, S\'il vous plaît attendez quelques secondes!</text>
 			<text name="thisActionHelpFreeChainball">Cette action vous a aidé à vous libérer de la boule et de la chaîne!</text>
+			<text name="ICantEnterDoorSeconds">Whopsie! I recently left there! I don\'t want to be noticed so early! I want to wait some seconds...</text>
 			<text name="ICantClimbCarrying">Je ne peux pas grimper en portant ceci dans mes mains. Je dois le coincer quelque part!\n1) Oh j\'ai une idee le coincé dans...mon cul!\n2) Partir</text>
 			<text name="ExtraLife">Vie suplémentaire</text>
 			<text name="WorldDoesntExist">LE MONDE N\'EXISTE PAS ENCORE! Lumas est en train de le faire.</text>
@@ -6429,6 +6439,7 @@ Enjoy!
 			<text name="ScreenOptions_Header_MusicVolume">Music Volume</text>
 			<text name="ScreenOptions_Header_SoundsONOFF">Son ON/OFF</text>
 			<text name="ScreenOptions_Header_Shoes">Chaussures sonds</text>
+			<text name="ScreenOptions_Header_Coins">Coin Sounds</text>
 			<text name="ScreenOptions_Header_Fart">Autoriser le pét</text>
 			<text name="ScreenOptions_Header_ReplaceBoeing">Remplacer Boeing avec des sons Semence</text>
 			<text name="ScreenOptions_Header_WaterfallAmbient">Sons ambiants de cascade</text>
