@@ -4237,9 +4237,10 @@ You can live without \n, but certain balloons will be 'very empty' without them,
 					<p i="5a">Agora você é a Princesa de Fogo, e ela foi queimadinha! (Isto pode ser mudado nas OPÇÕES). Tecle \'botão ataque\' para lançar bolas de fogo!</p>
 				<p i="6">You is now a Furry Raccoon! Press \'Run\' in order to fly or \'Attack\' for a statue!</p>
 				<p i="7">You is now a Raccoon! Run in order to fly!</p>
-				<p i="8">You is now a frog! Use UP/DOWN while in the water!</p>
-				<p i="9">You\'re now a Speedy Princess!</p>
-				<p i="10">You is now Hammer Princess!</p>
+				<p i="8">Agora você é um SAPO! Tecle \'CIMA\' ou \'BAIXO\' enquanto na água!</p>
+				<p i="8a">Agora você é um PINGUIM! Tecle \'botão ataque\' para lançar bolas de gelo!</p>
+				<p i="9">Você agora é uma Princesa Veloz!</p>
+				<p i="10">Você agora é uma Princesa dos Martelos! Tecle \'botão ataque\' para lançar martelos!</p>
 				<p i="11">You is now Super Mario!</p>
 				<p i="12">You is now wearing a naked apron!</p>
 				<p i="13">You is now a Shy Girl!</p>
